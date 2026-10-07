@@ -1,0 +1,5 @@
+{
+    "blocked_ips": ["1.1.1.1"],
+    "blocked_ports": [23],
+    "blocked_keywords": ["twitter"]
+}
